@@ -1,8 +1,7 @@
 # dron-monitor-client
 # Cliente de Monitoreo para Drones
 
-Este proyecto simula un cliente que representa un dron enviando datos de telemetría (latitud, longitud, batería y peso del paquete) a un servidor mediante sockets TCP. Además, grafica los datos recopilados.
-
+Este proyecto simula un cliente que emula un dron, transmitiendo datos de telemetría —como latitud, longitud, nivel de batería y peso del paquete— a un servidor mediante sockets TCP. Al concluir la transmisión, el cliente visualiza los datos recopilados mediante gráficos interactivos para facilitar su análisis.
 ---
 
 ## Requisitos
